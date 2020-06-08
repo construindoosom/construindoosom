@@ -470,12 +470,6 @@
     </url>
   
     <url>
-      <loc>https://construindoosom.netlify.app/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://construindoosom.netlify.app/pages/depoimentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -489,6 +483,12 @@
   
     <url>
       <loc>https://construindoosom.netlify.app/pages/faq</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://construindoosom.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

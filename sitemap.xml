@@ -410,12 +410,6 @@
     </url>
   
     <url>
-      <loc>https://construindoosom.netlify.app/produtos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://construindoosom.netlify.app/barras-sonoras</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -423,24 +417,6 @@
   
     <url>
       <loc>https://construindoosom.netlify.app/xylo-tongs</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://construindoosom.netlify.app/reco-recos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://construindoosom.netlify.app/wood-blocks</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://construindoosom.netlify.app/klak-klaks</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -488,13 +464,13 @@
     </url>
   
     <url>
-      <loc>https://construindoosom.netlify.app/pages/pagamentos</loc>
+      <loc>https://construindoosom.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://construindoosom.netlify.app/pages/faq</loc>
+      <loc>https://construindoosom.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

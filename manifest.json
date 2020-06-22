@@ -27,7 +27,7 @@
     }
   ],
   "name": "Ateliê Construindo o Som",
-  "short_name": "Construindo o som",
+  "short_name": "Construindo o Som",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",

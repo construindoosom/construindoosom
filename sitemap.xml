@@ -458,13 +458,13 @@
     </url>
   
     <url>
-      <loc>https://construindoosom.netlify.app/pages/faq</loc>
+      <loc>https://construindoosom.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://construindoosom.netlify.app/pages/entrega</loc>
+      <loc>https://construindoosom.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
